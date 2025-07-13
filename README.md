@@ -31,8 +31,19 @@ Programming Languages and Tools:
 - Data stuctures and Algorithms 🤔
 
 **Favorite Projects:**  
-- [Agricultural Information System](https://github.com/RvRagav/Agricultural-Information-System)
-- [Airport Management System](https://github.com/RvRagav/DBMS-project)
+<div style="display: flex; flex-wrap: wrap; gap: 10px ;margin-bottom:10px ">
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 30%; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+    <a href="https://github.com/RvRagav/Agricultural-Information-System" target="_blank"><h3>Agricultural Information System</h3></a>
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 30%; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+    <a href="https://github.com/RvRagav/DBMS-project" target="_blank">
+    <h3>Airport Management System</h3></a>
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 30%; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+    <a href="https://github.com/RvRagav/Sklyit_Business_Backend" target="_blank">
+    <h3>Business Backend</h3></a>
+  </div>
+</div>
 
 **Hobbies:**  
 - Listening to music 🎵
@@ -40,10 +51,12 @@ Programming Languages and Tools:
 **Professional Theme:**  
 Passionate about building robust and scalable web applications with a keen interest in full stack development. Experienced in both frontend and backend technologies, with a focus on delivering impactful solutions 💪
 
-**Profiles:**  
- ![Leetcode Stats](https://leetcard.jacoblin.cool/RagavanRV?theme=dark)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RvRagav&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RvRagav&langs_count=5&theme=tokyonight)]()
+**Profiles:**
+ <p>
+  <img src="https://leetcard.jacoblin.cool/RagavanRV?theme=dark" alt="Leetcode Stats"/> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=RvRagav&count_private=true&theme=tokyonight&showicons=true" alt="My GitHub Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvRagav&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats"/>
+</p>
 
 **Contact:**
 - [LinkedIn](https://www.linkedin.com/in/ragavan-raja-aa7460286)
