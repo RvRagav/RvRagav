@@ -3,7 +3,7 @@
 **Education:**  
 Pursuing Bachelor's degree at Madras Institute of Technology, Anna University, Chennai 🏫
 
-**Current Position:**  
+**Experience:**  
 Intern at CitiCorp,Chennai 💼
 
 **Technical Expertise:**  
